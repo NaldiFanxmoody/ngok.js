@@ -108,4 +108,4 @@ function ngetik2() {
   function kemunculan2(){otomatis();kalimatc.innerHTML = ktbwh3;setTimeout(kemunculan3,2000);} 
   function kemunculan3(){otomatis();kalimatc.innerHTML = katangetik2;setTimeout(kemunculan,2000);}
   
-       async function jawab(){await swals.fire('Bilang Makasihnya Di Chat Aja 🗿👍');window.location = "https://api.whatsapp.com/send?phone=+62895402449463&text=" + pesanwhatsapp;}
+       async function jawab(){await swals.fire('Bilang makasih di chat aja 🗿👍');window.location = "https://api.whatsapp.com/send?phone=+62895402449463&text=" + pesanwhatsapp;}
